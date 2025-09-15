@@ -1,1 +1,2 @@
 This is my first file in main branch.
+Adding another line to demonstrate branching. Branch name is 'second'.
